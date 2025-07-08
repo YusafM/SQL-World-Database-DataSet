@@ -132,7 +132,7 @@ LIMIT 20;
 
 **📷 Picture:**  
 _Add a screenshot or diagram here to illustrate the output or process._  
-![Calculating Population Density](path/to/your/image3.png)
+![Calculating Population Density](https://github.com/YusafM/SQL-World-Database-DataSet/blob/main/Screenshot%202025-06-12%20154301.png)
 
 ---
 
