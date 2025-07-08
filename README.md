@@ -90,7 +90,7 @@ WHERE continent = 'europe'
 
 **📷 Picture:**  
 _Add a screenshot or diagram here to illustrate the output or process._  
-![Querying Cities by Continent](path/to/your/image1.png)
+![Querying Cities by Continent](https://github.com/YusafM/SQL-World-Database-DataSet/blob/main/Screenshot%202025-06-12%20152649.png)
 
 ---
 
