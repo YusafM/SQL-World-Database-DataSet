@@ -164,7 +164,7 @@ ORDER BY
 
 **📷 Picture:**  
 _Add a screenshot or diagram here to illustrate the output or process._  
-![Listing Cities with High GDP Per Capita](path/to/your/image4.png)
+![Listing Cities with High GDP Per Capita](https://github.com/YusafM/SQL-World-Database-DataSet/blob/main/Screenshot%202025-06-12%20155254.png)
 
 ---
 
