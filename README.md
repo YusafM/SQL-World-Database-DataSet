@@ -109,7 +109,7 @@ ORDER BY population
 
 **📷 Picture:**  
 _Add a screenshot or diagram here to illustrate the output or process._  
-![Finding Countries and Their Capital Cities](path/to/your/image2.png)
+![Finding Countries and Their Capital Cities](https://github.com/YusafM/SQL-World-Database-DataSet/blob/main/Screenshot%202025-06-12%20153646.png)
 
 ---
 
